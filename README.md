@@ -11,10 +11,10 @@ Test __underscores__ and ~~Scratching~~ spase.
 ⋅⋅1. Ordered sub-list
 4. And another item.
 
-Im Google(https://www.google.com) link
+[I`m Google link](https://www.google.com)
 
 [I'm an inline-style link](https://www.google.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
-odkaz asi https://www.edaplayground.com/x/NGst
+[odkaz na play ground](https://www.edaplayground.com/x/NGst)
