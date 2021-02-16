@@ -1,7 +1,8 @@
 Cp1
 01-gates
 
-[odkaz na play ground](https://github.com/ZborilD/Digital-electronics-1)
+[odkaz na github](https://github.com/ZborilD/Digital-electronics-1)
+
 [odkaz na play ground](https://www.edaplayground.com/x/NGst)
 
 De Morgan's laws
