@@ -3,4 +3,7 @@ Cp1
 
 [odkaz na play ground](https://www.edaplayground.com/x/NGst)
 
-![Logo](Graph/graph.jpg)
+De Morgan's laws
+![Logo](Graph/graf_prubehu1.jpg)
+##Distributive laws
+![Logo](Graph/graf_prubehu2.jpg)
