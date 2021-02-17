@@ -21,6 +21,10 @@
 | 14 | 1 1 | 1 0 | 1 | 0 | 0 |
 | 15 | 1 1 | 1 1 | 0 | 1 | 0 |
 
-B < A PoS =	(A1+/B0)*(A1+/B1)*(/B1+/B0)*(A1+A0)*(A0+/B1)		
+![obr1](K-maps/Cp2_obr_K_map_PoS.jpg)
 
-B > A SoP =	(/A1*B1)+(/A1*/A0*B0)+(B1*B0*/A0)				
+B < A PoS =	(A1+/B0)*(A1+/B1)*(/B1+/B0)*(A1+A0)*(A0+/B1)			
+
+![obr2](K-maps/Cp2_obr_K_map_SoP.jpg)
+
+B > A SoP =	(/A1*B1)+(/A1*/A0*B0)+(B1*B0*/A0)		
