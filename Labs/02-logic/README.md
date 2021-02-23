@@ -21,6 +21,8 @@
 | 14 | 1 1 | 1 0 | 1 | 0 | 0 |
 | 15 | 1 1 | 1 1 | 0 | 1 | 0 |
 
+![obr1](K-maps/Cp2_obr_K_map_B=A.jpg)
+
 ![obr1](K-maps/Cp2_obr_K_map_PoS.jpg)
 
 B < A PoS =	(A1+/B0)*(A1+/B1)*(/B1+/B0)*(A1+A0)*(A0+/B1)			
