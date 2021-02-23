@@ -23,14 +23,17 @@
 
 ![obr1](K-maps/Cp2_obr_K_map_B=A.jpg)
 
-![obr1](K-maps/Cp2_obr_K_map_PoS.jpg)
+![obr2](K-maps/Cp2_obr_K_map_PoS.jpg)
 
 B < A PoS =	(A1+/B0)*(A1+/B1)*(/B1+/B0)*(A1+A0)*(A0+/B1)			
 
-![obr2](K-maps/Cp2_obr_K_map_SoP.jpg)
+![obr3](K-maps/Cp2_obr_K_map_SoP.jpg)
 
 B > A SoP =	(/A1*B1)+(/A1*/A0*B0)+(B1*B0*/A0)		
 
+![obr4](K-maps/Prubeh.jpg)
+
+![obr4](K-maps/Konzolove_hlaseni.jpg)
 
 #### VHDL Design
 
