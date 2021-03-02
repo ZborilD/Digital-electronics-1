@@ -3,7 +3,6 @@
 ### Tables of 16 slide switches and 16 LEDs on Nexys A7 board.
 
 ![obr1](Images/LED.jpg)
-
 ![obr2](Images/Switch.jpg)
 
 ### Listing of VHDL architecture from source file:
