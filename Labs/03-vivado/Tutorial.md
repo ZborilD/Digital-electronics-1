@@ -22,9 +22,6 @@ V oknu dále vytvářím/přidávám zdroj a jeho jazyk. (zdroj: specifikace ent
 
 ![obr1](Images/add_source2.jpg)
 
-V oknu dále vytvářím/přidávám data k desce. (Piny)
-
-![obr1](Images/.jpg)
 
 V následujících dvou oknech vybírám součástku nebo celou desku. (Deska už má všechny specifikace, co potřebuji a nemusím se s tím zabývat)
 
