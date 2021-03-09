@@ -190,4 +190,25 @@ begin
 | E | 1110 | 0 | 1 | 0 | 0 |
 | F | 1111 | 0 | 1 | 1 | 1 |
 
+```VHDL
+-- Connect one common anode to 3.3V
+    AN <= b"1111_0111";
 
+    -- Display input value
+    LED(3 downto 0) <= SW;
+
+    -- Turn LED(4) on if input value is equal to 0, ie "0000"
+    -- WRITE YOUR CODE HERE
+    LED(4) <= '1' when (SW = b"0000_0000") else ('0');
+    
+    -- Turn LED(5) on if input value is greater than 9
+    -- WRITE YOUR CODE HERE
+    LED(5) <= '1' when (SW > b"000_0100") else ('0');
+    
+    -- Turn LED(6) on if input value is odd, ie 1, 3, 5, ...
+    -- WRITE YOUR CODE HERE
+    
+    
+    -- Turn LED(7) on if input value is a power of two, ie 1, 2, 4, or 8
+    -- WRITE YOUR CODE HERE
+```
