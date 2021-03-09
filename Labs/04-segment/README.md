@@ -3,7 +3,6 @@
 ## 1:
 ### Figure connection of 7-segment displays on Nexys A7 board.
 ![obr2](Images/7seg.png)
-Connection of 7-segment displays on Nexys A7 board
 
 Zapojení se společnou anodou (zavedením ‚0’ na segment jej rozsvítí)
 
