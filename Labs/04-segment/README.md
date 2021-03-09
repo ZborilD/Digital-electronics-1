@@ -1,7 +1,16 @@
 # Lab 4: Seven-segment display decoder
 
 ## 1:
-### Truth table with connection of 7-segment displays on Nexys A7 board.
+### Figure connection of 7-segment displays on Nexys A7 board.
+![obr2](Images/7seg.png)
+Connection of 7-segment displays on Nexys A7 board
+
+Zapojení se společnou anodou (zavedením ‚0’ na segment jej rozsvítí)
+
+![obr3](Images/Connection_of_7-segment_displays_on_Nexys_A7_board.png)
+
+### Decoder truth table for common anode 7-segment display.
+
 | **Hex** | **Inputs** | **A** | **B** | **C** | **D** | **E** | **F** | **G** |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 0 | 0000 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
