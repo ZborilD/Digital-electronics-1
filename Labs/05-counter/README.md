@@ -23,12 +23,12 @@
 
                 -- TEST COUNTER DIRECTION HERE
                 if (cnt_up_i = '1') then --add
-                 s_cnt_local <= s_cnt_local + 1;  --pridana mezera     
+                 s_cnt_local <= s_cnt_local + 1;  
                                           
-                elsif (cnt_up_i = '0') then       --add
-                 s_cnt_local <= s_cnt_local - 1;  --add
+                elsif (cnt_up_i = '0') then       
+                 s_cnt_local <= s_cnt_local - 1;  
                 
-                end if;                  --add
+                end if;                  
 
             end if;
         end if;
