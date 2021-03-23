@@ -1,11 +1,11 @@
 # Lab 6: Display_driver
 
-## 1:
+## 1: Preparation tasks.
 ### Timing diagram figure for displaying value 3.142. 
 ![obr1](Images/Timing_diagram.png)
 
 
-## 2:
+## 2: Display driver.
 ### Listing of VHDL code of the process p_mux.
 ```VHDL
  p_mux : process(s_cnt, data0_i, data1_i, data2_i, data3_i, dp_i)
