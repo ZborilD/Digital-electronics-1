@@ -1,8 +1,9 @@
 # Lab 7: Latches and Flip-flops
 
 ## 1) Preparation tasks:
+![obr1](Images/jk_tab.png)
 
-
+![obr2](Images/t_tab.png)
 
 
 ## 2) D latch:
@@ -62,7 +63,7 @@ p_stimulus : process
 ```
 
 ### Screenshot with simulated time waveforms.
-![obr1](Images/d_latch.png)
+![obr3](Images/d_latch.png)
 
 
 ## 3) Flip-flops:
@@ -113,7 +114,7 @@ p_clk_gen : process
         report "Stimulus process finished" severity note;
     end process p_stimulus;
 ```
-![obr1](Images/d_latch.png)
+![obr4](Images/d_latch.png)
 
 ### VHDL code listing of the processes p_d_ff_rst.
 ```VHDL
@@ -169,7 +170,7 @@ p_clk_gen : process
 ```
 
 ### Screenshot with simulated time waveforms.
-![obr1](Images/d_ff_rst.png)
+![obr5](Images/d_ff_rst.png)
 
 ### VHDL code listing of the processes p_jk_ff_rst.
 ```VHDL
@@ -242,7 +243,7 @@ p_clk_gen : process
     end process p_stimulus;
 ```
 ### Screenshot with simulated time waveforms.
-![obr1](Images/jk_ff_rst.png)
+![obr6](Images/jk_ff_rst.png)
 
 ### VHDL code listing of the processes p_t_ff_rst.
 ```VHDL
@@ -311,6 +312,6 @@ p_clk_gen : process
 ```
 
 ### Screenshot with simulated time waveforms.
-![obr1](Images/t_ff_rst.png)
+![obr7](Images/t_ff_rst.png)
 
 
