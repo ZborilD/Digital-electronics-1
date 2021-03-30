@@ -5,6 +5,9 @@
 
 ![obr2](Images/t_tab.png)
 
+#### Charakteristické rovnice.
+d = qn+1
+j/qn + /kqn = qn+1
 
 ## 2) D latch:
 ###  VHDL code listing of the process p_d_latch.
